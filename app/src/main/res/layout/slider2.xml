@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/linearLayout"
+    android:layout_height="match_parent"
+    android:background="#D9E3E4"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:background="#7EA8AC"
+        android:gravity="center"
+        android:text="WHAT TO CUT AND HOW"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="  ENGLISH IVY"
+
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:autoLink="all"
+        android:clickable="true"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        Cut each ivy vine both at ground level and at shoulder level, and pull completely off the tree, being careful to minimize damage to bark. For more information visit http://bay-ridge.org/faqs-new-2/"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="  HONEYSUCKLE"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="39dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        Cut in 2 places a foot or so apart, pull off ONLY if it does not harm the tree bark."
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="  ORIENTAL BITTERSWEET"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        Cut; remove from bush/tree, if possible, without damaging the tree. "
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="  MILE-A-MINUTE"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        Cut off above the ground; bag and take home for yard waste. The seed pods look like a flower, but they are loaded with hundreds of tiny seeds that need to be taken away to slow down its reproduction."
+        android:textColor="#000000" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/whattocut" />
+
+</LinearLayout>

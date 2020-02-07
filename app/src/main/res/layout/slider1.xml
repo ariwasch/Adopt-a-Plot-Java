@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+android:id="@+id/linearLayout"
+android:layout_height="match_parent"
+android:background="#D9E3E4"
+android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:background="#7EA8AC"
+        android:gravity="center"
+        android:text="HOW TO PREPARE"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="1.	PROPER ATTIRE: Dress for ticks, bugs, and other pests. Deer ticks are found throughout our woods and can carry lyme disease. The danger from ticks is lessened but not absent in cold weather. Protect yourself by wearing clothing that keeps ticks away from your body. Light colors help you spot crawlers."
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Long pants and long sleeve shirt (be sure to tuck pant legs into socks as ticks crawl up)"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Heavy shoes or rubber boots (preferable)"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Hat"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Work gloves"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="2.	TOOLS:"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Flat head screwdriver"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Clippers"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Loppers"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Plastic bag for removing cut Mile-A-Minute vines"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Plastic bag for picking up litter"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="346dp"
+        android:layout_height="73dp"
+        android:lines="40"
+        android:maxLines="100"
+        android:text="        •   Bug spray, repellents (DEET or wear clothes that are pre-treated with Permethrin - let Permethrin dry for up to six hours before donning to last for 6 washings)"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:lines="40"
+        android:autoLink="all"
+        android:clickable="true"
+        android:maxLines="100"
+        android:text="3.  Double-check which plot you adopted by consulting the forest-section maps hyperlinked under the heading “ADOPT YOUR PLOT” here:  http://bay-ridge.org/community-land/adoptaplot/"
+        android:textColor="#000000" />
+
+</LinearLayout>
